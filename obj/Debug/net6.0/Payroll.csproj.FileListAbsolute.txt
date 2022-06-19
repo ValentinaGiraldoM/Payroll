@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\Payroll\bin\Debug\net6.0\Payroll.exe
+C:\Users\valen\source\repos\Payroll\bin\Debug\net6.0\Payroll.deps.json
+C:\Users\valen\source\repos\Payroll\bin\Debug\net6.0\Payroll.runtimeconfig.json
+C:\Users\valen\source\repos\Payroll\bin\Debug\net6.0\Payroll.dll
+C:\Users\valen\source\repos\Payroll\bin\Debug\net6.0\Payroll.pdb
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfo.cs
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.dll
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\refint\Payroll.dll
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.pdb
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\Payroll.genruntimeconfig.cache
+C:\Users\valen\source\repos\Payroll\obj\Debug\net6.0\ref\Payroll.dll
